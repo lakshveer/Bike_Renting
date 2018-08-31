@@ -3,7 +3,7 @@ The objective of this Case is to Predication of bike rental count on daily based
 
 
 
-Python
+## Python
 
 1. Under Prediction and Analysis in Python there are three folders:
 	*Charts- Where all the charts generated during ananlysis and model generation are placed.
@@ -15,7 +15,7 @@ Recommended: You can go through Bike+Renting.html file placed in Jypter_notebook
 complete executed code with charts.
 
 
-R
+## R
 
 2. Under Predicting and Analysis in R there are two folders:
 	*Charts- Where all the charts generated during ananlysis and model generation are placed.
